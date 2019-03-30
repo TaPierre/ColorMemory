@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">colormemory</string>
+    <string name="return_to_menu">Retour au menu principal</string>
+    <string name="easymode">Mode facile</string>
+    <string name="hardmode">Mode difficile</string>
+    <string name="expertmode">Mode Expert</string>
+    <string name="colormemory">Color Memory</string>
+</resources>
